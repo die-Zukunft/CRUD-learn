@@ -61,3 +61,17 @@ git branch -M main # Cambiar el nombre de la rama a main.
 git push -u origin main # Para la primera vez.
 git push origin branch-name # Para las siguientes veces.
 ```
+
+## ¿Cómo recibo los cambios de mis compañeros?
+
+### Para recibir las ramas creadas o eliminadas por tus compañeros.
+
+```bash
+git fetch -p # Trae todas las ramas que no tengas.
+```
+
+### Para recibir los cambios de una rama.
+
+```bash
+git pull origin main
+```
