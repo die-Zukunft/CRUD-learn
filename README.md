@@ -1,8 +1,15 @@
 # CRUD Learn
 
+## Herramientas a utilizar
+
+- Express
+- Nodemon
+- MongoDB
+- Mongoose
+
 ## API de este CRUD
 
-Todas las rutas deben empezar por /api/v1/.
+Todas las rutas deben empezar por "api/v1/".
 
 - get (GET)
   Debe entregar todos los documentos de tareas.
