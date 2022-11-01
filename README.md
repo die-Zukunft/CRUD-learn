@@ -28,8 +28,8 @@ Todas las rutas deben empezar por "api/v1/".
 
 ### Tipos de commits
 
-build: Cambios en el proyecto, dependencias, configuraciones...
-feat: Nueva feature.
-fix: Reparación de un bug.
-docs: Documentación, como README, CHANGELOG...
-style: Mejora del código siguiendo reglas de un Linter, sin cambiar el funcionamiento.
+- build: Cambios en el proyecto, dependencias, configuraciones...
+- feat: Nueva feature.
+- fix: Reparación de un bug.
+- docs: Documentación, como README, CHANGELOG...
+- style: Mejora del código siguiendo reglas de un Linter, sin cambiar el funcionamiento.
